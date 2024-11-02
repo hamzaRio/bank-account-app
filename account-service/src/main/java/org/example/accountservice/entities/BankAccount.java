@@ -1,4 +1,4 @@
-package org.example.accountservice.entitiies;
+package org.example.accountservice.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

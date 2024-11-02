@@ -1,7 +1,7 @@
 package org.example.accountservice.web;
 
 import org.example.accountservice.clients.CustomerRestClient;
-import org.example.accountservice.entitiies.BankAccount;
+import org.example.accountservice.entities.BankAccount;
 import org.example.accountservice.model.Customer;
 import org.example.accountservice.repository.BankAccountRepository;
 import org.springframework.web.bind.annotation.GetMapping;
